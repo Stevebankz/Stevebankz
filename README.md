@@ -22,8 +22,7 @@
 
 💬 Ask me about **Python**
 
-⚡ Fun fact: **Octopuses have three hearts and blue blood!**
-
+📧 Reach me out: nwaiwuchinonsosteve@gmail.com 
  </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
