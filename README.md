@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Steve+N!;" />
 </h1>
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center">Passionate about Data and buidling LLM Models</h3>
 
 <div align="center"> 
   <a href="mailto:nwaiwuchinonsosteve@gmail.com" target="_blank">
@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Projects**
+ 🔭 I’m currently working on **Machine Learning Projects**
  
  🌱 I’m currently learning **Digital Business & AI**
 
