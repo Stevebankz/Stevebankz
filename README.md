@@ -46,7 +46,7 @@ I combine hands-on engineering experience with academic research to push AI syst
 ## 📬 **Reach Me**
 - Email: **nwaiwuchinonsosteve@gmail.com**  
 - Academic Email: **chinonso_s@mail.rmutt.ac.th**  
-- Portfolio Website: *(Add once live)*  
+- Portfolio Website: *[(stevebankz.github.io)](https://stevebankz.github.io/)*  
 
 ---
 
